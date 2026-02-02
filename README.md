@@ -54,6 +54,7 @@ $$\huge \displaystyle \boldsymbol{\sigma = \mathbb{C} : (\varepsilon - \varepsil
 
 # Results
 # Stress intensity sampling
+![Domain](Half_plane_footing.png)
 ![Stress intensity](Stress_Distribution.png)
 
 
