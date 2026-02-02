@@ -52,6 +52,34 @@ $$\huge \displaystyle \boldsymbol{\sigma = \mathbb{C} : (\varepsilon - \varepsil
 - Neural networks approximate field variables such as displacement and stress.
 - Automatic differentiation is used to compute strains, and residuals.
 
+# Results
+# Stress intensity sampling
+![Stress intensity](Stress_Distribution.png)
+
+
+# FEM Result
+![FEM von Mises](FEM_Von-Mises.png)
+# PINN Result
+![PINNs von Mises](PINNs_Von-Mises.png)
+# Loss vs Epoch
+![Loss vs Epoch](loss_history_vonmises_adaptive.png)
+
+# Comparison FEM VS PINNs 
+![Comparison](Comparison_FEM_VS_PINN.png)
+
+# Plastic and Elastic strain Comparison between FEM VS PINN
+![Plastic strain comparison](Comparison_elastic_and_plastic_strain_between_FEM_VS_PINNs.png)
+
+# Comparison AC Yield point
+![AC Yield](Comparison_plastic_zone.png)
+
+# At y = 3.0 m 
+![Scatter plot](Plot_at_y=3.png)
+
+# Evaluation metric
+![R-square](R-Square.PNG)
+
+
 # Features
 
 - PINN formulation for elastoplasticity
