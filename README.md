@@ -104,7 +104,7 @@ $$\huge \displaystyle \boldsymbol{\sigma = \mathbb{C} : (\varepsilon - \varepsil
 
 # Requirements
 
-- Python 3.x
+- Python 3.14
 
 - PyTorch / TensorFlow (depending on implementation)
 
