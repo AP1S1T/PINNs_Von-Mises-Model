@@ -8,9 +8,6 @@ plastic-corrector (radial return)** algorithm, and equilibrium is imposed either
 an incremental potential). FEM results are used **only for validation**, never for
 training.
 
-> The method follows the incremental step-loading + return-mapping strategy of
-> `J2_DCM.py` / `DEM_Lib.py` (included for reference).
-
 ---
 
 # Overview
