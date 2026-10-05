@@ -157,7 +157,7 @@ One frame per converged load step, from an `energy` / `displacement` run.
 ---
 
 # Features
-- **Data-free / unsupervised** — no labeled FEM data used in training.
+- **Data-free / unsupervised** no labeled FEM data used in training.
 - Exact enforcement of the von Mises yield criterion via **radial return** (no KKT penalty).
 - **Incremental step loading** with carried plastic history (path-dependent).
 - Switchable **strong-form** (collocation) and **energy-form** (Deep Energy Method) physics.
